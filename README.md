@@ -13,4 +13,4 @@ ANN_bfs_model.h5 is the file containing the weights of the model which can be ca
 
 ANN_bfs_model.json file is the saved model architecture which can be called inside the main code.
 
-This work was a part of my internship. I have also attached my internship report which contains a detailed information about this ANN.  (see section 3.2 on page no. 12)
+This work was a part of my internship. I have also attached my internship report which contains detailed information about this ANN model.  (see section 3.2 on page no. 12)
