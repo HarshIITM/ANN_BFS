@@ -12,3 +12,5 @@ ANNbfs.py is the main code of algorithm.
 ANN_bfs_model.h5 is the file containing the weights of the model which can be called inside the main code.
 
 ANN_bfs_model.json file is the saved model architecture which can be called inside the main code.
+
+This work was a part of my internship.I have also attached my internship report which contains the whole details about this ANN. (see section 3.2 (page no. 12)
