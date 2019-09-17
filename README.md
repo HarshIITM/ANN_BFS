@@ -9,6 +9,6 @@ The model has shown the training accuracy of 97.5 percent with just 100 epochs o
 
 ANNbfs.py is the main code of algorithm.
 
-ANN_bfs_model.h5 is the file containing the weights of the model. 
+ANN_bfs_model.h5 is the file containing the weights of the model which can be called inside the main code.
 
 ANN_bfs_model.json file is the saved model architecture which can be called inside the main code.
